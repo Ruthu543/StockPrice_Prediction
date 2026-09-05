@@ -21,3 +21,8 @@ git clone https://github.com/Ruthu543/StockPrice_Prediction.git
 cd StockPrice_Prediction
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+
+
