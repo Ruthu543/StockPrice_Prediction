@@ -292,3 +292,22 @@ Ruthu543
 
 GitHub: @Ruthu543
 Repository: StockPrice_Prediction
+
+
+📞 Support & Contact
+If you encounter any issues or have suggestions:
+
+Open an Issue
+Check existing Discussions
+Review the Troubleshooting section
+
+🙏 Acknowledgments
+Yahoo Finance for providing historical stock data
+TensorFlow/Keras community for excellent deep learning tools
+Streamlit for making web app development accessible
+MongoDB for robust data storage solutions
+Financial data enthusiasts and contributors
+
+
+
+
